@@ -1,0 +1,4 @@
+git add .
+git commit -m [branch name]
+git pull
+git push
